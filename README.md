@@ -7,7 +7,7 @@ Davine chelagat–graphs
 Gift ndegi–queue
 Micheal munene–tree
 Gerald wanbua– stack
-Telvin mwika– linked list
+Telvin mwika– linked list code 
 Jesse gift– arrays
 Yvonne wangeci– screenshots
 
