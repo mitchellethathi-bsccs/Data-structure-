@@ -47,5 +47,5 @@ int main() {
     printf("Adjacency list: \n");
     printGraph(graph);
 
-    return 0;
+return 0;
 }
