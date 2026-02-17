@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX 5
+#define MAX 6
 
 int stack[MAX];
 int top = -1;
@@ -37,6 +37,7 @@ int main() {
     push(3);
     push(4);
     push(5);
+    push(7)
 
     // Print stack
     printf("Elements: ");
