@@ -6,7 +6,7 @@ Mary mutemi–How data structures are applied in the system
 Davine chelagat–graphs
 Gift ndegi–queue
 Micheal munene–tree
-Gerald wanbua– stack
+Gerald wambua– stack
 Telvin mwika– linked list code 
 Jesse gift– arrays
 Yvonne wangeci– screenshots
